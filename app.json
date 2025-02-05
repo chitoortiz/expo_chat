@@ -25,6 +25,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "owner": "ignacio_ortiz"
+    "owner": "ignacio_ortiz",
+    "extra": {
+      "eas": {
+        "projectId": "f1717b1a-d7de-47e6-8399-9879a886cb92"
+      }
+    }
   }
 }
